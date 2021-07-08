@@ -1,5 +1,5 @@
 baseURL: "https://gmidorii.github.io/gmidorii"
-title: gmidorii blog
+title: (Draft) gmidorii blog
 paginate: 5
 theme: PaperMod
 
@@ -74,7 +74,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "gmidorii blog"
+        Title: "(Draft) gmidorii blog"
         Content: >
             Welcome to demo of gimidorii blog.
 
