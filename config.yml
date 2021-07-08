@@ -3,6 +3,7 @@ title: gmidorii blog
 paginate: 5
 theme: PaperMod
 
+publishDir: docs
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false

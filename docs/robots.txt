@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gmidorii.github.io/sitemap.xml

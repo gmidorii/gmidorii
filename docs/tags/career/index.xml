@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>career on gmidorii blog</title>
+    <link>https://gmidorii.github.io/tags/career/</link>
+    <description>Recent content in career on gmidorii blog</description>
+    <image>
+      <url>https://gmidorii.github.io/papermod-cover.png</url>
+      <link>https://gmidorii.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Jul 2021 23:01:18 +0900</lastBuildDate><atom:link href="https://gmidorii.github.io/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>https://gmidorii.github.io/posts/portfolio/</link>
+      <pubDate>Thu, 08 Jul 2021 23:01:18 +0900</pubDate>
+      
+      <guid>https://gmidorii.github.io/posts/portfolio/</guid>
+      <description>経歴 経験 インフラ AWS IaC          Terraform ・ドキュメントを参照して plan/apply は可能 ・data/module あたりを利用はできるが細かい使い分けはわからない     アプリケーション </description>
+    </item>
+    
+  </channel>
+</rss>
